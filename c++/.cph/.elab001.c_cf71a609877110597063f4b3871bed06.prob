@@ -1,0 +1,1 @@
+{"name":"Local: elab001","url":"c:\\Users\\soniv\\Documents\\GitHub\\cp\\c++\\elab001.c","tests":[{"id":1623751169024,"input":"6\nGIFST\nGRTET\nGRIST\nGSGSGI\nGIGIGI\nFGITRE","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\soniv\\Documents\\GitHub\\cp\\c++\\elab001.c","group":"local","local":true}
